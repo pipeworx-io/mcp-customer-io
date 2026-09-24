@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/customer-io",
   "title": "Customer Io",
   "description": "MCP server for customer-io",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/customer-io",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-customer-io",
