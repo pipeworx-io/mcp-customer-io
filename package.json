@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-customer-io",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "MCP server for customer-io",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e44eb181ca10e112c189c176796c5d30e8a86929c694bc5564e759938193de75",
-    "sourceCommit": "b0a4b8e2f3f5b3a4c3f9f2c9a73f91b20d32ce11"
+    "sourceHash": "v1-a0060a170657bece476e6ae8b0c604bae1901c4de782acdb106b874f6cf079fc",
+    "sourceCommit": "f1ef7a2f6b9cb1b8da1374ec2fcb28c661582b35"
   }
 }
