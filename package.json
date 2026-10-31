@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-customer-io",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MCP server for customer-io",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "customer-io",
     "gatewaySlug": "customer-io",
-    "sourceHash": "v1-bc78a725d92a62c0eafd4abcaaa678968a02dc0fde10780474c278594acf694a",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-00684107e2eeab0e4741f8b46ef64153ec715ef554ab681ae06582a9e7e6a324",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
